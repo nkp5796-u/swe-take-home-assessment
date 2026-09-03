@@ -1,0 +1,20 @@
+# Dependency directories for whichever language a candidate uses
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/
+vendor/
+bin/
+obj/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build output
+dist/
+build/
